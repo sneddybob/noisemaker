@@ -18,7 +18,7 @@ body{
     border: 1px solid grey;
     text-align: center;
     width: calc(100vw/13);
-    height: calc(100vw/7);
+    height: 40vh;
 }
 .sharpKey{
     border: 1px solid grey;
@@ -30,7 +30,7 @@ body{
 }
 
 .pressed{
-    background-image: radial-gradient(rgba(255, 0, 0, 0.911), white);
+    background-image: radial-gradient(rgba(255, 0, 0, 0.863), white);
     animation-name: pressedkey;
     animation-duration: 1000ms;
     
