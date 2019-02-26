@@ -14,11 +14,17 @@ body{
 
 .key{
     border: 1px solid grey;
+    text-align: center;
     width: calc(100vw/13);
     height: calc(100vw/13);
 }
 .sharpKey{
+    border: 1px solid grey;
+    text-align: center;
     
+    width: calc(50vw/13);
+    height: calc(50vw/13);
+
 }
 
 .pressed{
