@@ -9,10 +9,10 @@
         initialized = true;
 
         
-        /*oscillator2 = audioCtx.createOscillator();
+        oscillator2 = audioCtx.createOscillator();
         oscillator2.frequency.value = 0;
         oscillator2.start();
-        oscillator2.connect(audioCtx.destination);*/
+        oscillator2.connect(audioCtx.destination);
 
         initialized = true;
     }
