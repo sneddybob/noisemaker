@@ -30,7 +30,7 @@ body{
 }
 
 .pressed{
-    background-image: radial-gradient(blue, white);
+    background-image: radial-gradient(rgba(255, 0, 0, 0.911), white);
     animation-name: pressedkey;
     animation-duration: 1000ms;
     
